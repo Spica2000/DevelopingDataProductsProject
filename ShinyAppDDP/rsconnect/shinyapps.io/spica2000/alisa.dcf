@@ -1,0 +1,12 @@
+name: alisa
+title: Alisa
+username:
+account: spica2000
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 224666
+bundleId: 1023963
+url: https://spica2000.shinyapps.io/alisa/
+when: 1507841717.48618
+asMultiple: FALSE
+asStatic: FALSE
